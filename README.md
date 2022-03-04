@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @PluffyDev
-- 👀 I’m interested in Coding lua/fivem coding
-- 🌱 I’m currently learning Lua and making a fivem script from the bottom
-- 📫 How to reach me just send a dm to ItsPluffy#0001
+### Yo im Pluffy :)
 
-<!---
-PluffyDev/PluffyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Pluffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluffyDev)](https://github.com/PluffyDev/github-readme-stats)
